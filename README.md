@@ -4,7 +4,15 @@ CLI to generate Slack emoji from an image file :)
 
 ### Installation
 
-1. Put `iconify` function to your .zshrc.
+#### zplug
+
+```
+zplug "oimou/iconify", of:iconify.zsh
+```
+
+#### manual
+
+Put `iconify` function to your .zshrc.
 
 ### Usage
 
